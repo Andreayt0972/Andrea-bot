@@ -188,9 +188,9 @@ module.exports = Fg = async (Fg, mek) => {
     mek = mek.messages.all()[0];
     if (!mek.message) return;
     //--Bot self
-    if(mek.key.fromMe) return; /// Eliminalo para que el Bot sea self, puede tener problemas con los juegos
-    if (mek.key && mek.key.remoteJid == 'status@broadcast') return;
-    mek.message = (Object.keys(mek.message)[0] === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
+    //if ( mek . key . fromMe ) return ; /// Eliminalo para que el Bot sea self, puede tener problemas con los juegos
+    if ( mek . key  &&  mek . key . remoteJid  ==  'status@broadcast' ) return ;
+    mek _ mensaje  = ( Objeto . claves ( mek . mensaje )[ 0 ] ===  'ephemeralMessage' ) ?  mek _ mensaje _ mensaje efímero . mensaje : mek . mensaj/e
     let m = simple.smsg(Fg, mek);
     global.prefix;
     global.blocked;
