@@ -454,15 +454,13 @@ switch (command) {
  
  case 'menu': 
  case 'help':
-    capt = `────  *DyLux  ┃ ᴮᴼᵀ*  ────
+    capt = `────  *Andrea  ┃ ᴮᴼᵀ*  ────
     
 ${msg.hi} *${pushname}* ${ucapanWaktu}
     
 ⎔ *${msg.lvl}* : ${isLevel}
 ⎔ *Premium* : ${prem}
 
-▢ ${msg.cretb}
-• https://youtu.be/F4lGWb1WXgM 
 
 ${readMore}
 ${menu(prefix)} 
@@ -487,15 +485,11 @@ ${menuVC}
     
     case 'grupos': 
     case 'groups': 
-    case 'dylux': 
+    case 'andrea': 
     gps = `
-≡  *DyLux  ┃ ᴮᴼᵀ*  GRUPOS
+≡  *andreq  ┃ ᴮᴼᵀ*  GRUPOS
 
-▢ ${msg.gp} 1
-https://instabio.cc/fg98ff
 
-▢ *YouTube*
-• https://www.youtube.com/fg98f
 `
 m.reply(gps)
 break 
@@ -538,23 +532,14 @@ case 'lang':
 case 'creator':
 case 'creador': 
 case 'developer':
-   //Fg.sendContact(from, '5493885839638', 'FG98', mek) 
+   //Fg.sendContact(from, '573125484672', 'Andreabot', mek) 
    m.reply(`
 *≡ OWNER*
 
-▢ Instagram :
-  • https://instagram.com/fg98._
 ▢ WhatsApp : 
-  • wa.me/
-▢ Telegram : 
-  • t.me/fgsupp_bot 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
-▢ Facebook : 
-  • https://facebook.com/fg98ff/
-  • https://facebook.com/fg98A/
-▢ YouTube : 
-  • https://youtube.com/fg98f
+  • wa.me/57125484672
+
+  • 
 `)
     break
     
@@ -586,13 +571,12 @@ case 'developer':
 ▢ Versi Wa : ${Fg.user.phone.wa_version}
 
 *≡ OWNER*
-▢ Instagram : https://www.instagram.com/fg98._
-▢ WhatsApp : wa.me/
+▢ WhatsApp : wa.me/573125484672
 
 *≡ SCRIPT*
 ▢ Git : ${package.homepage} 
 ` 
-Fg.send2Button(from, teks, '*_© FG98 DyLux_*', `ꨄ︎ Apoyar`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
+Fg.send2Button(from, teks, '*_© Andreabot_*', `ꨄ︎ Apoyar`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
    break
    
     case 'nameninja':
@@ -654,7 +638,7 @@ case 'afk':
    m.reply(msg.onAfk(reason))
  break
 
-case "s":
+case "s"
   case "stiker":
   case "sticker":
     anu = args.join(" ").split("|");
@@ -2203,8 +2187,6 @@ if (isVoiceCommand && type === "audioMessage"){
     
 /**
  * comando principal VoiceCommand
- * créditos by @https://github.com/AlvioAdjiJanuar 
- * fix FG98
 */
 switch(VoiceCommand) {
   
@@ -2217,13 +2199,11 @@ ${msg.hi} *${pushname}* ${ucapanWaktu}
 ⎔ *${msg.lvl}* : ${isLevel}
 ⎔ *Premium* : ${prem}
 
-▢ ${msg.cretb}
-• https://youtu.be/F4lGWb1WXgM 
 
 ${readMore}
 ${menu(prefix)} 
 `
-    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *DyLux  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`, `⦙☰ Menu Vc`, `${prefix}menuvc`, '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`)
+    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *Andrea  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`, `⦙☰ Menu Vc`, `${prefix}menuvc`, '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`)
     break
   
   case 'google':
@@ -2308,6 +2288,5 @@ if (m.mtype == 'viewOnceMessage' && isViewonce === true){
  * WhatsApp bot  baileys
  * 
  * Thank to 
- - https://github.com/MhankBarBar/weabot
- - https://github.com/Nurutomo/wabot-aq
+ - 
 */
