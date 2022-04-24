@@ -87,16 +87,16 @@ Puedes abrir el menú [aquí](https://github.com/FG98F/dylux-bot/blob/main/funct
 ### Grupo de WhatsApp 
 
 <p>
-<a href="https://instabio.cc/fg98ff" target="blank"><img src="https://img.shields.io/badge/DyLux Bot-30302f?style=flat&logo=whatsapp" /></a>
+<a href="https://instabio.cc/ff" target="blank"><img src="https://img.shields.io/badge/DyLux Bot-30302f?style=flat&logo=whatsapp" /></a>
 </p>
 
 ### Mis Contactos
 Para obtener información más detallada, comuníquese conmigo a través de las redes sociales a continuación. :
 
 <p>
-<a href="http://wa.me/59172945992" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://www.instagram.com/fg98._/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-<a href="https://m.facebook.com/fg98ff" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
+<a href="http://wa.me/573125484672" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://www.instagram.com/8._/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+<a href="https://m.facebook.com/f" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
 </p>
 
 ***
