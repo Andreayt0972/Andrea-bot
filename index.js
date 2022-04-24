@@ -638,7 +638,7 @@ case 'afk':
    m.reply(msg.onAfk(reason))
  break
 
-case "s"
+case "s":
   case "stiker":
   case "sticker":
     anu = args.join(" ").split("|");
