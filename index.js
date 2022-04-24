@@ -537,9 +537,9 @@ case 'developer':
 *≡ OWNER*
 
 ▢ WhatsApp : 
-  • wa.me/57125484672
+  • wa.me/573125484672
 
-  • 
+  • @STREAMINGANDREA Telegram 
 `)
     break
     
@@ -571,10 +571,7 @@ case 'developer':
 ▢ Versi Wa : ${Fg.user.phone.wa_version}
 
 *≡ OWNER*
-▢ WhatsApp : wa.me/573125484672
-
-*≡ SCRIPT*
-▢ Git : ${package.homepage} 
+▢ WhatsApp : wa.me/573125484672 
 ` 
 Fg.send2Button(from, teks, '*_© Andreabot_*', `ꨄ︎ Apoyar`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
    break
