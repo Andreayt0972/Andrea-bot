@@ -487,9 +487,10 @@ ${menuVC}
     case 'groups': 
     case 'andrea': 
     gps = `
-≡  *andreq  ┃ ᴮᴼᵀ*  GRUPOS
+≡  *andrea  ┃ ᴮᴼᵀ*  GRUPOS
+https://chat.whatsapp.com/LroudEJYhMf8XCUr7IDm5H
 
-
+https://chat.whatsapp.com/JbTbP1KhSdJElnd1YDtEP3
 `
 m.reply(gps)
 break 
