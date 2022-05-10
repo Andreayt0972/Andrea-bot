@@ -1,5 +1,5 @@
 {
-  "name": "dylux-bot",
+  "name": "Andrea-bot",
   "version": "0.5.0",
   "description": "WhatsApp Bot Baileys",
   "main": "main.js",
@@ -61,7 +61,7 @@
     "start": "node start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "FG98",
+  "author": "ANDREAYT8",
   "license": "MIT license",
   "bugs": {
     "url": "https://github.com/FG98F/dylux-bot/issues"
